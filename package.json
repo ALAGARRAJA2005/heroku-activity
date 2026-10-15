@@ -1,0 +1,21 @@
+{
+  "name": "act2.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+ "scripts": {
+  "build": "npm install",
+  "start": "node server.js"
+},
+"engines": {
+  "node": "14.x"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0",
+    "lowdb": "^1.0.0"
+  }
+}
